@@ -6,7 +6,7 @@ Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe
 
 
 ##Find the Origin
-Step #1: Open makerCAM.com. Zoom out until you can see the origin.  
+Step #1: Open [makerCAM.com](http://makercam.com). Zoom out until you can see the origin.  
 
 ![makercam origin](http://placehold.it/400x400)
 
