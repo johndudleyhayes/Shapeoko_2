@@ -8,7 +8,7 @@ Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe
 ##Find the Origin
 Step #1: Open [makerCAM.com](http://makercam.com). Zoom out until you can see the origin.  
 
-![makercam origin](http://placehold.it/400x400)
+![makercam origin](tPictures/first_job_makercam.png)
 
 ##Create Rectangle
 Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle! Move the rounded rectangle so the bottom left corner is on the origin (0,0).  
